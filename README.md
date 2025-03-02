@@ -1,1 +1,1 @@
-# Student-hub
+# Student-management-system
